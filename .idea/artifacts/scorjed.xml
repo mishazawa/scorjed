@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scorjed">
+    <output-path>$PROJECT_DIR$/out/artifacts/scorjed</output-path>
+    <root id="archive" name="scorjed.jar" />
+  </artifact>
+</component>
